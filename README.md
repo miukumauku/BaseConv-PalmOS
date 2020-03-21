@@ -3,6 +3,32 @@
 ## About
 BaseConv is a Base Converter application for PalmOS.
 
+## Screenshots
+### Modes
+- Hex mode <br>
+![hex mode](./images/mode-hex.png "Hex mode")
+
+- Dec mode <br>
+![dec mode](images/mode-dec.png "Dec mode")
+
+- Oct mode <br>
+![oct mode](./images/mode-oct.png "Oct mode")
+
+- Bin mode <br>
+![bin mode](./images/mode-bin.png "Bin mode")
+
+### Menus
+- Base menu <br>
+![base menu](./images/menu-base.png "Base menu")
+
+- Option menu <br>
+![option menu](./images/menu-option.png "Option menu")
+
+### Dialogs
+- About dialog <br>
+![about dialog](./images/dialog-about.png "About dialog")
+
+
 ## Build and Install
  Install prc-tools package, palm-sdk package, pilot-link package.
  Build with Makefile:
